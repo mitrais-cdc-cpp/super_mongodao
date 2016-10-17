@@ -1,0 +1,6 @@
+[submodule "ojt_mongodao"]
+	path = ojt_mongodao
+	url = https://github.com/mitrais-cdc-cpp/ojt_mongodao.git
+[submodule "ojt_poco"]
+	path = ojt_poco
+	url = https://github.com/mitrais-cdc-cpp/ojt_poco.git
